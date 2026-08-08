@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react , python , Development**
+- 💬 Ask me about * python Development**
 
 - 📫 How to reach me **abhithabbu@gmail.com**
 
